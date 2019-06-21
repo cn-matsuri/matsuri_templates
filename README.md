@@ -1,1 +1,1 @@
-# matsuri_translation_js
+# matsuri_templates

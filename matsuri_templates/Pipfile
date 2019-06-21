@@ -1,0 +1,13 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple"
+verify_ssl = false
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+jinja2 = "*"
+
+[requires]
+python_version = "3.7"
